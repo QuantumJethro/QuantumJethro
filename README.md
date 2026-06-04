@@ -1,54 +1,59 @@
-[Greetings! I am QuantumJethro.]
+Greetings! I am QuantumJethro.
+
+I don't make really useful stuff on this site, mainly just stuff listed.
+
+[Note worthy things I created:]
+
 
 [About me:]
 
 
-[I'm 14.]
+I'm 14.
 
-[I'm interested mainly in Undertale and Backrooms.]
+I'm interested mainly in Undertale and Backrooms.
 
-[I have ADHD and Autism.]
+I have ADHD and Autism.
 
-[I have bad social skills.]
+I have bad social skills.
 
 [Socials]
 
 
-[Discord] = quantumjethro
+Discord = quantumjethro
 
-[YouTube] = quantumjethro / OuterChara / outershiftchara
+YouTube = quantumjethro / OuterChara / outershiftchara
 
-[Reddit] = KeyLoad4355 / Storyfellcharaa
+Reddit = KeyLoad4355 / Storyfellcharaa
 
-[Fandom] = Jetro400
+Fandom = Jetro400
 
-[Gamejolt] = QuantumJethro
+Gamejolt = QuantumJethro
 
-[NewGrounds] = retrojetro
+NewGrounds = retrojetro
 
-["DeviantArt"] = QuantumJethro
+DeviantArt = QuantumJethro
 
-[Wattpad] = Quantumjethro
+Wattpad = Quantumjethro
 
-[CodeTorch] = StoryshiftChara
+CodeTorch = StoryshiftChara
 
-[X] = Quantumjethro
+X = Quantumjethro
 
 [Fandoms I'm in]
 
 
-[Undertale (and the AUs)]
+Undertale (and the AUs)
 
-[Backrooms]
+Backrooms
 
-[SCP]
+SCP
 
-[Terraria]
+Terraria
 
-[Space]
+Space
 
-[Idle Games]
+Idle Games
 
-[Neon Genesis Evangelion]
+Neon Genesis Evangelion
 
-[Powerscaling, Smart Characters Debate, Writing Wise]
+Powerscaling, Smart Characters Debate, Writing Wise
