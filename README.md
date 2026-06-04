@@ -1,16 +1,32 @@
-## Hi there 👋
+Greetings! I am QuantumJethro.
 
-<!--
-**QuantumJethro/QuantumJethro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
 
-Here are some ideas to get you started:
+I'm 14.
+I'm interested mainly in Undertale and Backrooms.
+I have ADHD and Autism.
+I have bad social skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Socials:
+
+Discord: quantumjethro
+YouTube: quantumjethro / OuterChara / outershiftchara
+Reddit: KeyLoad4355 / Storyfellcharaa
+Fandom: Jetro400
+Gamejolt: QuantumJethro
+NewGrounds: retrojetro
+DeviantArt: QuantumJethro
+Wattpad: Quantumjethro
+CodeTorch: StoryshiftChara
+X: Quantumjethro
+
+Fandoms I'm in:
+
+Undertale (and the AUs)
+Backrooms
+SCP
+Terraria
+Space
+Idle Games
+Neon Genesis Evangelion
+Powerscaling, Smart Characters Debate, Writing Wise
