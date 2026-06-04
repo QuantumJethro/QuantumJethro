@@ -9,16 +9,16 @@
 
 [Socials:]
 
-[Discord] quantumjethro
-[YouTube] quantumjethro / OuterChara / outershiftchara
-[Reddit] KeyLoad4355 / Storyfellcharaa
-[Fandom] Jetro400
-[Gamejolt] QuantumJethro
-[NewGrounds] retrojetro
-[DeviantArt] QuantumJethro
-[Wattpad] Quantumjethro
-[CodeTorch] StoryshiftChara
-[X] Quantumjethro
+[Discord] = quantumjethro
+[YouTube] = quantumjethro / OuterChara / outershiftchara
+[Reddit] = KeyLoad4355 / Storyfellcharaa
+[Fandom] = Jetro400
+[Gamejolt] = QuantumJethro
+[NewGrounds] = retrojetro
+[DeviantArt] = QuantumJethro
+[Wattpad] = Quantumjethro
+[CodeTorch] = StoryshiftChara
+[X] = Quantumjethro
 
 [Fandoms I'm in:]
 
