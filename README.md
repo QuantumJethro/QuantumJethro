@@ -16,6 +16,8 @@ I have ADHD and Autism.
 
 I have bad social skills.
 
+I am very interesting in Type Civilizations
+
 [Socials]
 
 
