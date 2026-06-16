@@ -33,11 +33,9 @@ Gamejolt = QuantumJethro
 
 NewGrounds = retrojetro
 
-DeviantArt = QuantumJethro
+DeviantArt = QuantumJethro (formely: anti-box (got hacked :())
 
 Wattpad = Quantumjethro
-
-CodeTorch = StoryshiftChara
 
 X = Quantumjethro
 
