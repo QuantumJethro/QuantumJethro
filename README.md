@@ -7,9 +7,6 @@ I don't make really useful stuff on this site, mainly just stuff listed.
 
 [About me:]
 
-
-I'm 14.
-
 I'm interested mainly in Undertale and Backrooms.
 
 I have ADHD and Autism.
