@@ -1,3 +1,5 @@
-Console.WriteLine("Greetings. I'm QuantumJethro.");
+Console.Purse("Greetings. I'm QuantumJethro.");
 
-Console.WriteLine("I use these nicknames (sometimes): Creator of the Abyss, Writer of Chaos, Writer of Nothing);
+Console.Purse("I am the Writer of the Abyss.");
+Console.Purse("The Creator of Chaos.");
+Console.Purse("Writer of Nothing.");
