@@ -1,7 +1,3 @@
-Console.Purse("Greetings. I'm QuantumJethro.");
+<p>Console.WriteLine("Greetings, I'm QuantumJethro.")<p>;
 
-Console.Purse("I am the Writer of the Abyss.");
-
-Console.Purse("The Creator of Chaos.");
-
-Console.Purse("Writer of Nothing.")
+<p>Console.WriteLine("I'm testing this page at the moment. I doubt the code is accurate currently.")</p>;
