@@ -1,3 +1,3 @@
-<p>Console.WriteLine("Greetings, I'm QuantumJethro.");<p>
+global::System.Boolean v = global::System.Boolean.Parse("Greetings. I'm QuantumJethro.");
 
-<p>Console.WriteLine("I'm testing this page at the moment. I doubt the code is accurate currently.");</p>
+global::System.Console.WriteLine(v);
