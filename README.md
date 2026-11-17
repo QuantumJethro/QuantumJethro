@@ -1,3 +1,7 @@
-global::System.Boolean v = global::System.Boolean.Parse("Greetings. I'm QuantumJethro.");
+<p>Heya, welcome to my site!:</p>
 
-global::System.Console.WriteLine(v);
+<ul>
+  <li>This is currently being made... expect it to be bad.</li>
+  <li>This is being tested currently.</li>
+  <li>I'm learning JavaScript currently.</li>
+</ul>
