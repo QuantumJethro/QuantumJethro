@@ -1,12 +1,3 @@
-.done {
-  color: darkseagreen;
-  text-decoration: line-through solid black 2px;
-}
+A site I created because I was bored.
 
-<p>Heya, welcome to my site!:</p>
-
-<ul>
-  <li>This is currently being made... expect it to be bad.</li>
-  <li>This is being tested currently.</li>
-  <li>I'm learning JavaScript currently.</li>
-</ul>
+You can find things about me on here.
